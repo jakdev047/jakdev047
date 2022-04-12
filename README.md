@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakdev047&count_private=true&show_icons=true)](https://github.com/jakdev047)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakdev047&langs_count=10&theme=radical&layout=compact" alt="jakdev047 :: Top Langs" /></p>
